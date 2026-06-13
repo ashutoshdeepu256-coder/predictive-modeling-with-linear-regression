@@ -121,17 +121,6 @@ Example graph:
 
 ---
 
-## Future Improvements
-
-Possible upgrades:
-
-- Use real-world CSV dataset  
-- Add multiple input features  
-- Perform feature engineering  
-- Compare with other regression algorithms  
-- Deploy model using Flask or FastAPI  
-
----
 
 ## Project Structure
 
